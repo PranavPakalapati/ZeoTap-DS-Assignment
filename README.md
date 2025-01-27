@@ -11,16 +11,31 @@ Clusters = 9
 Davies-Bouldin Index: 0.8479
 
 **Clustering Summary**:
-Cluster 0:
-Number of Customers: 120
-Average Quantity: 3.2
-Average Total Value: 250.5
 
 Cluster 1:
-Number of Customers: 150
-Average Quantity: 2.8
-Average Total Value: 220.3
-(Similarly for other clusters...)
+Size : 
+
+Cluster 2:
+Size : 
+
+Cluster 3:
+Size : 
+
+Cluster 4:
+Size : 
+
+Cluster 5:
+Size : 
+
+Cluster 6:
+Size : 
+
+Cluster 7:
+Size : 
+
+Cluster 8:
+Size : 
+
 
 **Future Improvements**
 Optimal Number of Clusters: Use techniques like the Elbow Method or Silhouette Score to determine the optimal number of clusters.
