@@ -12,29 +12,32 @@ Davies-Bouldin Index: 0.8479
 
 **Clustering Summary**:
 
-Cluster 1:
-Size : 
+Cluster 1 --->  
+Size : 12
 
-Cluster 2:
-Size : 
+Cluster 2 --->                    
+Size : 26
 
-Cluster 3:
-Size : 
+Cluster 3 --->                      
+Size : 14
 
-Cluster 4:
-Size : 
+Cluster 4 --->            
+Size : 10
 
-Cluster 5:
-Size : 
+Cluster 5 --->
+Size : 5
 
-Cluster 6:
-Size : 
+Cluster 6 --->
+Size : 16
 
-Cluster 7:
-Size : 
+Cluster 7 --->
+Size : 39
 
-Cluster 8:
-Size : 
+Cluster 8 --->
+Size : 33
+
+Cluster 9 --->
+Size : 5
 
 
 **Future Improvements**
