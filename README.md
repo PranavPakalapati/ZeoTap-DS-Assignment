@@ -6,7 +6,8 @@ This project aims to perform customer clustering analysis on transactional data 
 
 **Final Results**
 
-n-clusters = 9
+Clusters = 9
+
 Davies-Bouldin Index: 0.8479
 
 **Clustering Summary**:
