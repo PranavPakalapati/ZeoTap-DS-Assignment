@@ -4,17 +4,11 @@
 **Overview**
 This project aims to perform customer clustering analysis on transactional data from an e-commerce platform. Using K-Means clustering, the project groups customers based on features such as quantity, total value, and price of items they have purchased. The output includes detailed cluster characteristics, a visual representation of the clusters, and a PDF report summarizing the clustering results.
 
-The steps followed in this analysis include data loading, preprocessing, feature aggregation, clustering, evaluation, and reporting.
-
-
-
-
-
-
 **Final Results**
 
 Davies-Bouldin Index: 0.9135
-Clustering Summary: For each cluster, the following values are presented:
+
+**Clustering Summary**:
 Cluster 0:
 Number of Customers: 120
 Average Quantity: 3.2
